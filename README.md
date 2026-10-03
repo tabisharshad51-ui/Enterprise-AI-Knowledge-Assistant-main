@@ -427,7 +427,7 @@ Designed using modular services for maintainability and scalability.
 
 # 👨‍💻 About the Author
 
-## Mautik Patel
+## Tabish Arshad
 
 **Enterprise Data, Analytics & AI Transformation Professional**
 
@@ -446,10 +446,6 @@ Passionate about transforming complex business data into meaningful insights thr
 - 🤖 AI-Driven Analytics & Data Strategy
 - ☁️ Microsoft Fabric (Currently Learning)
 
-### 🌐 Connect
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mautikpatel
-- 💻 **GitHub:** [*Explore more enterprise analytics and AI projects*](https://github.com/MautikPatel)
 
 > *"Turning Data into Decisions. Turning Insights into Impact."*
 
@@ -463,7 +459,7 @@ If you found this project helpful, please consider giving it a **⭐ Star** on G
 <br>
 ### Built with ❤️ using RAG
 
-**Designed & Developed by Mautik Patel**
+**Designed & Developed by Tabish Arshad**
 
 *Enterprise Data • Analytics • AI Transformation*
 
